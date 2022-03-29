@@ -32,7 +32,7 @@ def Ambitions():
  
 
   ### Personal Stuff
-- :school: I am a `Junior` at Faculty of Computers & Artificial Intelligence at Cairo University
+- :school: I am a `Junior` at Faculty of Computer & Artificial Intelligence at Cairo University
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science`, ` C++ `, ` OOP`
 - :thinking: I’m currently looking forward to be pubil
@@ -51,6 +51,8 @@ def Ambitions():
   <a href="https://www.linkedin.com/in/ahmed-zaher-338681223/" target="blank"><img align="center" src="https://github.com/AhmedZaher5788/AhmedZaher5788/blob/main/linkedin.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100004697581988" target="blank"><img align="center" src="https://github.com/AhmedZaher5788/AhmedZaher5788/blob/main/fb.svg" alt="josuerv729" height="30" width="40" /></a>
   <a href="https://twitter.com/ahmedzaher60" target="blank"><img align="center" src="https://github.com/AhmedZaher5788/AhmedZaher5788/blob/main/twitter.svg" alt="josue_rojasv" height="30" width="40" /></a>
+	<a href="https://codeforces.com/profile/Sparnke" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100004697581988" target="blank"><img align="center"
 </p>
 
 
