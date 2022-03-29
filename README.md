@@ -35,9 +35,9 @@ def Ambitions():
 - :school: I am a `Junior` at Faculty of Computer & Artificial Intelligence at Cairo University
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science`, ` C++ `, ` OOP`
-- :thinking: I’m currently looking forward to be pubil
 - :nerd_face: Always `learning new things`
-- 📫 &nbsp; How to reach me: ahmedzaher5788@gmail.com.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:ahmedzaher5788@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-ahmedzaher5788@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
 
 - ### My Absolute Favorites:
 
