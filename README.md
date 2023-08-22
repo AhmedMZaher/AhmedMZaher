@@ -45,8 +45,10 @@ def Ambitions():
 -  🧠 &nbsp; Solving problems and Competitve Programming.
 
  <!-- CONNECTION -->
-<hr>      
-<h3 align="center">Connect with me:</h3>
+
+<div align="center">
+
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-zaher-338681223/" target="blank"><img align="center" src="https://github.com/AhmedZaher5788/AhmedZaher5788/blob/main/linkedin.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100004697581988" target="blank"><img align="center" src="https://github.com/AhmedZaher5788/AhmedZaher5788/blob/main/fb.svg" alt="josuerv729" height="30" width="40" /></a>
@@ -54,17 +56,43 @@ def Ambitions():
 	<a href="https://codeforces.com/profile/Sparnke" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100004697581988" target="blank"><img align="center"
 </p>
-
+</div>
 
 
 <!-- LANGUAGES AND TOOLS -->
-<hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<div align="center">
+
+<div align="center">
+	
+## Programming languages
+
+<p>
+	<img height="50" src="./Icons/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/django.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="./Icons/mysql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+</div>
+
+---
+
+<div align="center">
+
+## Programs Used
+
+<p>
+  <img height="40" src="./Icons/clion.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="./Icons/pycharm.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="./Icons/datagrip.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</div>
+
+---
+
+<div align="center">
