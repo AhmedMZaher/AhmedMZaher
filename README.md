@@ -23,13 +23,6 @@ def Ambitions():
 	
  ```
  
- ## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedZaher5788&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaher5788&layout=compact&theme=github_dark"/>|
- 
- 
 
   ### Personal Stuff
 - :school: I am a `Junior` at Faculty of Computer & Artificial Intelligence at Cairo University
