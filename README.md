@@ -1,38 +1,16 @@
-### Hi there 👋, I'am Ahmed Zaher
+## Hi there 👋, I'am Ahmed Zaher, and I am from Egypt.
 
-## Who am I?
 
-```python
-class WhoAmI:
-    Name = 'Ahmed Zaher"
-    Job = "CS Student"
-    fun_fact = "I hate Chillies"
-    hobbies = 
-    [
-              'Competitve Programming',
-              'Chilling',
-              'Gaming',
-    ]
-	
-def getCity():
-  return Egypt_Cairo()
-	
-def Ambitions():
-  Become_Software_Engineer()
-  Finish_My_Goals()
-	
- ```
- 
-
-  ### Personal Stuff
-- :school: I am a `Junior` at Faculty of Computer & Artificial Intelligence at Cairo University
+ ### Personal Stuff
+- :school: I am a `Junior` at the Faculty of Computer & Artificial Intelligence at Cairo University
 - :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science`, ` C++ `, ` OOP`
+- :student: I’m currently learning: `Database Optimizations`, `Ruby`
 - :nerd_face: Always `learning new things`
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:ahmedzaher5788@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-ahmedzaher5788@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
-- ### My Absolute Favorites:
+
+- ## My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building projects
 -  🧠 &nbsp; Solving problems and Competitve Programming.
